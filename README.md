@@ -1,2 +1,2 @@
 # configs
-Backup for configuration files of some program
+Backup for configuration files of some programs
