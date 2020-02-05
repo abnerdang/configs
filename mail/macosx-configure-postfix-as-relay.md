@@ -1,6 +1,7 @@
 # Configure postfix as relay for macOS Sierra
 *Feb. 5, 2020: Not enough configs for working with office365.*
-**source: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet** 
+
+**source: https://gist.github.com/loziju/66d3f024e102704ff5222e54a4bfd50e** 
 
 -   Source: http://www.developerfiles.com/how-to-send-emails-from-localhost-mac-os-x-el-capitan/
 -   Source: http://budiirawan.com/install-mail-server-mac-osx/
